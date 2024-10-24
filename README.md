@@ -4,7 +4,7 @@ Uses React on the front-end and authenticates the Go backend using the Clerk pro
 
 ## Setup
 
-**./client/env.local**
+**./client/.env.local**
 
 Create and add the following:
 
